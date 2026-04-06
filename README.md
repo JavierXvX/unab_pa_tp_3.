@@ -1,6 +1,7 @@
 # unab_pa_tp_3.
 Taller de Programación Orientada a Objetos:
 Objetivos a cumplir por los estudiantes:
+
 ● 1. Entender y comprender ejercicios prácticos
 ● 2. Trabajar en grupos
 ● 3. Manejo de IDE (cualquiera a elección)
